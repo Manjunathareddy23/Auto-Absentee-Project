@@ -1,0 +1,6 @@
+{
+  "sender_number": "+916300138360",
+  "default_message_template": "Today ({date}), your son/daughter {name} is absent from college.",
+  "message_delay_seconds": 15,
+  "wait_time_before_send": 10
+}
